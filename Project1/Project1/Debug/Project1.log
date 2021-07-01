@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\sapun\source\repos\project1\project1\source.cpp(32): warning C4101: random: неиспользованная локальная переменная
+c:\users\sapun\source\repos\project1\project1\source.cpp(103): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\sapun\source\repos\project1\project1\source.cpp(215): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\sapun\source\repos\project1\project1\source.cpp(220): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\sapun\source\repos\project1\project1\source.cpp(225): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\sapun\source\repos\project1\project1\source.cpp(230): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\sapun\source\repos\project1\project1\source.cpp(236): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Project1.vcxproj -> C:\Users\sapun\source\repos\Project1\Debug\Project1.exe
